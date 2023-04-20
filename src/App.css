@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-left: 45%;
+  padding-right: 15%;
+ 
+}
+
+.img {
+  text-align: center;
+}
+
+p{
+  background-color: #282c34;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.btn{
+  background-color: rgb(151, 68, 68);
+  border-radius: 1rem;
+  margin-top: 2rem;
+  transition:all 400ms ease;
+}
+.btn:hover{
+  background-color: rgb(156, 156, 205);
+}
+
+
+
